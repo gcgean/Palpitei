@@ -1,0 +1,13 @@
+[
+  {
+    "externalId": "game-1",
+    "championshipId": "eca555a8-f442-4af2-84a5-f4e8864f6957",
+    "kickoffAt": "2026-02-01T19:31:35.453Z",
+    "status": "scheduled",
+    "homeTeamId": "e215af6a-2bd7-4d6c-a8db-6119b4788d05",
+    "awayTeamId": "e70d950f-b600-4bb6-91d5-51f9a8887fbd",
+    "id": "74ead3b3-76ba-4548-a20e-97b1e36962c8",
+    "createdAt": "2026-02-01T19:31:35.461Z",
+    "updatedAt": "2026-02-01T19:31:35.461Z"
+  }
+]

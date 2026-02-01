@@ -1,0 +1,21 @@
+[
+  {
+    "externalId": "mkt-1",
+    "gameId": "74ead3b3-76ba-4548-a20e-97b1e36962c8",
+    "provider": "demo",
+    "marketType": "1x2",
+    "selection": "home",
+    "odds": 2.1,
+    "raw": {
+      "processed": true
+    },
+    "isProcessed": true,
+    "isProfitable": true,
+    "id": "a43d9b56-3153-444b-9670-d3668cffd810",
+    "createdAt": "2026-02-01T19:31:35.471Z",
+    "updatedAt": "2026-02-01T19:31:35.490Z",
+    "processedAt": "2026-02-01T19:31:35.481Z",
+    "profitScore": 0.42,
+    "profitableAt": "2026-02-01T19:31:35.490Z"
+  }
+]

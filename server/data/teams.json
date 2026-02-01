@@ -1,0 +1,16 @@
+[
+  {
+    "externalId": "team-a",
+    "name": "Time A",
+    "id": "e215af6a-2bd7-4d6c-a8db-6119b4788d05",
+    "createdAt": "2026-02-01T19:29:29.563Z",
+    "updatedAt": "2026-02-01T19:31:35.420Z"
+  },
+  {
+    "externalId": "team-b",
+    "name": "Time B",
+    "id": "e70d950f-b600-4bb6-91d5-51f9a8887fbd",
+    "createdAt": "2026-02-01T19:31:35.435Z",
+    "updatedAt": "2026-02-01T19:31:35.435Z"
+  }
+]
